@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ezgy
-- 🌱 I’m currently learning mobile development with flutter
+- 🎓 I graduated with a BE from the Computer Engineering dept. of Bogazici University in June 2023 with a 3.11 GPA.
+- 💻 I work as a Junior Software Engineer, focusing on back-end development in Java with Spring Boot. 
+- 🌱 I like to challenge myself with new technologies. In my free time, I am learning mobile development with Flutter.
 
 
 
